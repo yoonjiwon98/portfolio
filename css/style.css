@@ -820,6 +820,7 @@ a.active {
 #contact {
     padding: 100px 0;
     background: #b9cce0;
+    height: 600px;
 }
 
 #contact-form input,
