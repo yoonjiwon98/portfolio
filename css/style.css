@@ -437,6 +437,13 @@ a.active {
 }
 
 .color{color: #115199;}
+
+.col-md-6{width: 100%;}
+
+
+
+.left{width: 50%; float: left;}
+.right{width: 49%; float: right; padding-top: 70px;}
 /* 
 .about-border {
     position: absolute;
@@ -674,8 +681,13 @@ a.active {
 
 #experience {
     padding: 100px 0;
-    background-color: #b9cce0;
+
+    background: url(../img/imgg2.png) no-repeat 75% 20% #b9cce0;
 }
+
+
+
+
 
 .experience-row {
     padding: 20px 0;
