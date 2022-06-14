@@ -13,6 +13,13 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'WandohopeB';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10@1.0/WandohopeB.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 
 
@@ -658,7 +665,8 @@ a.active {
 .brand1{margin-top: 200px;}
 
 
-.item_info h3{font-family: 'GmarketSansMedium';}
+.item_info .egh{font-family: 'GmarketSansMedium';}
+.wando{font-family: 'WandohopeB'; font-size: 33px; color: #000;}
 .mmmm{font-family: 'GothicA1-Light'; padding-bottom: 15px;} 
 
 
