@@ -667,12 +667,21 @@ a.active {
 
 .item_info .egh{font-family: 'GmarketSansMedium';}
 .wando{font-family: 'WandohopeB'; font-size: 33px; color: #000;}
+.bom{font-family: 'HSBombaram'; font-size: 23px; color: #000;}
 .mmmm{font-family: 'GothicA1-Light'; padding-bottom: 15px;} 
 
 
-.col-md-8{width: 570px;padding: 10px; float: right; padding-left:40px;}
+.col-md-8{width:585px;padding:30px 10px 10px; float: right; padding-left:40px; height:359px;}
 
 
+@font-face {
+    font-family: 'HSBombaram';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/HSBombaram.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.col-md-8{background-color: #e6edf5;}
 
 
 
@@ -690,7 +699,7 @@ a.active {
 #experience {
     padding: 100px 0;
 
-    background: url(../img/imgg2.png) no-repeat 75% 20% #b9cce0;
+    background: #b9cce0;
 }
 
 
@@ -831,7 +840,7 @@ a.active {
 .timeline-event-copy h4{font-family: 'GmarketSansMedium'; font-size: 15px; color: #4b6180;}
 
 
-.top{margin-top: 30px;}
+.top{margin-top: 30px; line-height: 30px;}
 
 
 /* contact
