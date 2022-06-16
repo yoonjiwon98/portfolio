@@ -408,7 +408,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/main.png);
+    background: url(../img/main.jpg);
     background-size: cover;
     height: 100vh;
     position: relative;
@@ -439,18 +439,28 @@ a.active {
 }
 
 .about-img-div img {
-    margin:20px auto;
+    margin:0 auto;
     
 }
 
-.color{color: #115199;}
-
-.col-md-6{width: 100%;}
+.color{color: #115199; font-weight: 600;}
 
 
+.about-img-div{width: 55%; padding-top:60px; float: right;}
 
-.left{width: 50%; float: left;}
-.right{width: 49%; float: right; padding-top: 70px;}
+
+
+#about {
+    padding: 100px 0;
+}
+
+.about-img-div img {
+    margin: 0 auto;
+}
+
+
+.wan{width: 40%;}
+
 /* 
 .about-border {
     position: absolute;
@@ -671,7 +681,7 @@ a.active {
 .mmmm{font-family: 'GothicA1-Light'; padding-bottom: 15px;} 
 
 
-.col-md-8{width:585px;padding:30px 10px 10px; float: right; padding-left:40px; height:359px;}
+.col-md-8{width:48%;padding:10px; float: right;}
 
 
 @font-face {
@@ -681,7 +691,7 @@ a.active {
     font-style: normal;
 }
 
-.col-md-8{background-color: #e6edf5;}
+
 
 
 
